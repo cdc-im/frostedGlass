@@ -16,4 +16,4 @@
 
 ## demo
 
-参见example目录
+<http://cdc-im.github.io/frostedGlass/example/example.html>
